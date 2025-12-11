@@ -1,7 +1,6 @@
 #Task 01
 '''
 OOP Project: Employee & Manager System
-
 This project demonstrates the four pillars of Object-Oriented Programming (OOP):
 - Abstraction: Person class defines a generic interface via show_info().
 -Encapsulation: Employee and Manager attributes are contained within their classes.
@@ -10,8 +9,6 @@ This project demonstrates the four pillars of Object-Oriented Programming (OOP):
 
 Creates multiple Employee objects and a Manager object, and prints their information.
 '''
-#Apply the 4 pillars of OOP in classes, and push the file into github and share your repo's link.
-
 
 
 class Person:
@@ -52,4 +49,5 @@ print(Employee3.show_info())
 print(Employee4.show_info())
 print(Employee5.show_info())
 print(Manager1.show_info())
+
 
